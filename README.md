@@ -1,7 +1,7 @@
 <h1>Hi there :)</h1>
 
 <h2>
-  IT analyst with over 20+ years of experience. Systems Administrator, and DevOps Engineer working with Private, Public or Hybrid Cloud and Legacy Infrastructure.
+  Senior IT analyst with over 20+ years of experience. Systems Administrator, and DevOps Engineer working with Private, Public or Hybrid Cloud and Legacy Infrastructure.
 </h2>
 
   <a href="https://linkedin.com/in/gmedeiros">

@@ -1,17 +1,11 @@
 <!--
-<h2>
-  Systems Administrator
-  , <a href="https://www.redhat.com/en/topics/devops/what-is-sre" target=blank>Site reliability engineering</a>
-  , and DevOps Engineer working with Private, Public and Legacy Infrastructure. 
-</h2>
--->
-
 <div>
- <a href="https://gmedeiros.net">
+  <a href="https://gmedeiros.net">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmedeirosnet&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmedeirosnet&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
   </a>
- </div>  
+</div>  
+-->
 
   <div>
     <a href="https://linkedin.com/in/gmedeiros">

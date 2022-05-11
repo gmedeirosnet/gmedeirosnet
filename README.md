@@ -9,6 +9,14 @@
 
   <div>
     <a href="https://linkedin.com/in/gmedeiros">
-      <img src="https://i0.wp.com/gmedeiros.net/wp-content/uploads/2022/04/tech-icons.png?resize=768%2C709&ssl=1">
+      <img src="https://github.com/gmedeirosnet/gmedeirosnet/blob/main/DevOps%20Pipeline%20CI-CD.png"
+           alt="GMEDEIROS IT CONSULTING"
+           height= "380"
+           align="middle">
+      </br>
+      <img src="https://i0.wp.com/gmedeiros.net/wp-content/uploads/2022/04/tech-icons.png?resize=768%2C709&ssl=1"
+           alt="GMEDEIROS IT CONSULTING"
+           align="middle">
+           >
     </a>
   </div>

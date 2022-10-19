@@ -6,7 +6,7 @@
          height= "300"
          align="middle">
     </br>
-    <img src="https://gmedeiros.net/icons.png"
+    <img src="http://gmedeiros.net/icons.png"
          alt="GMEDEIROS IT CONSULTING"
          align="middle"> 
   </a>

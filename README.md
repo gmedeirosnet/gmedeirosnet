@@ -6,7 +6,7 @@
          height= "300"
          align="middle">
     </br>
-    <img src="https://gmedeiros.net/wp-content/uploads/2022/05/tech-icons.png"
+    <img src="https://gmedeiros.net/icons.png"
          alt="GMEDEIROS IT CONSULTING"
          align="middle"> 
   </a>

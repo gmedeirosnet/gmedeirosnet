@@ -30,14 +30,6 @@ Helping teams ship faster and safer — from pipeline design to production obser
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gmedeirosnet&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Featured Work
 
 <p align="center">

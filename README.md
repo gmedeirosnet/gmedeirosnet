@@ -40,12 +40,13 @@ Helping teams ship faster and safer — from pipeline design to production obser
 
 ## 🚀 Featured Work
 
-
-<a href="https://github.com/gmedeirosnet/CI-CD-Laboratory">
-  <img src="https://github.com/gmedeirosnet/gmedeirosnet/blob/main/DevOps%20Pipeline%20CI-CD.png"
-       alt="DevOps CI/CD Pipeline — gmedeirosnet"
-       height="300">
-</a>
+<p align="center">
+  <a href="https://github.com/gmedeirosnet/CI-CD-Laboratory">
+    <img src="https://github.com/gmedeirosnet/gmedeirosnet/blob/main/DevOps%20Pipeline%20CI-CD.png"
+         alt="DevOps CI/CD Pipeline — gmedeirosnet"
+         height="300">
+  </a>
+</p>
 
 > End-to-end CI/CD pipeline architecture covering source control, build, test, security scanning, artifact management, GitOps delivery, and Kubernetes runtime — built in [`CI-CD-Laboratory`](https://github.com/gmedeirosnet/CI-CD-Laboratory).
 

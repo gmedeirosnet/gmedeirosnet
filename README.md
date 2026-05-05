@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo Medeiros 👋
+# Hi, I'm Gutemberg Medeiros 👋
 
 ### Senior DevOps Engineer | CI/CD · Kubernetes · Cloud Native
 

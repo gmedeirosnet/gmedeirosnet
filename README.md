@@ -33,17 +33,13 @@ Helping teams ship faster and safer — from pipeline design to production obser
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmedeirosnet&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmedeirosnet&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=gmedeirosnet&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🚀 Featured Work
+
 
 <a href="https://github.com/gmedeirosnet/CI-CD-Laboratory">
   <img src="https://github.com/gmedeirosnet/gmedeirosnet/blob/main/DevOps%20Pipeline%20CI-CD.png"

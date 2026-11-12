@@ -1,6 +1,6 @@
 # Hi, I'm Gutemberg Medeiros 👋
 
-### Senior DevOps Engineer | CI/CD · Kubernetes · Cloud Native
+### Senior Cloud Platform Engineer | CI/CD · Kubernetes · Cloud Native
 
 10+ years building CI/CD pipelines and Kubernetes-based platforms at scale.
 Passionate about cloud-native DevSecOps, GitOps with ArgoCD, and platform engineering.

@@ -2,9 +2,9 @@
 
 ### Senior Cloud Platform Engineer | CI/CD · Kubernetes · Cloud Native
 
-10+ years building CI/CD pipelines and Kubernetes-based platforms at scale.
-Passionate about cloud-native DevSecOps, GitOps with ArgoCD, and platform engineering.
-Helping teams ship faster and safer — from pipeline design to production observability.
+10+ years building IaC into CI/CD pipelines, bringing containers to life, and scaling Kubernetes Clusters.
+Passionate about GNU/Linux, Data centers, Cloud, GitOps, and platform engineering.
+Helping teams ship faster and safer — from product design to production observability.
 
 ---
 
